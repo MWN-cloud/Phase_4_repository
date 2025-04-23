@@ -132,7 +132,8 @@ occasional runtime crashes due to resource constraints.
 - The dataset had a limited number of movie ratings, which led to data sparsity and
 impacted model effectiveness.
 
-**Final Documents**
+** 11. Final Documents**
+
 All final documents are found in the main branch;
 1. Group_6_Movie_Recommendation_System.ipynb - Final Jupyter Notebook - [Group_6_Movie_Recommendation_System.ipynb](https://github.com/MWN-cloud/Phase_4_repository/blob/main/Group_6_Movie_Recommendation_System.ipynb)
 2. Group_6_Movie_Recommendation_System.pdf - Final pdf file of Jupyter Notebook - https://github.com/MWN-cloud/Phase_4_repository/blob/main/Group_6_Movie_Recommendation_System.pdf
