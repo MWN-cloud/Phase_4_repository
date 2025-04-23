@@ -10,10 +10,15 @@ experiences. This project addresses:
 filtering.
 ---
 2. **Objectives**
+   
 i. Develop a collaborative filtering-based recommendation system.
+
 ii. Address the cold start problem using hybrid filtering techniques.
+
 iii. Classify movies into liked/disliked to improve filtering precision.
+
 iv. Recommend the top 5 personalized movies for each user.
+
 ---
 3. Data Understanding
 - **Source**: MovieLens dataset (100,000 ratings)
@@ -33,10 +38,14 @@ iv. Recommend the top 5 personalized movies for each user.
 - Plot: Number of Ratings vs Average Rating.
 ---
 6. Data Cleaning
+   
 i. Handling null values
+
 ii. Dropping duplicates
+
 iii. Display and Clean Outlier
-7. Explora Data Analysis
+
+8. Exploratory Data Analysis
 - Distribution of movie Rating as visual (PULP fiction was selected as one of the
 input for the filtering models.
 - Number of Ratings vs Average Rating visual
@@ -99,11 +108,11 @@ lesser-known but highly rated movies.
 
 7. Recommend top 5 movies based on user and particular movie watched.
 Top 5 movies based on user 68 and movie 'Pulp Fiction' were;
-1. Forrest Gump
-2. Ferris Bueller's Day Off
-3. Seven (a.k.a. Se7en)
-4. Silence of the Lambs
-5. The Usual Suspects
+   -Forrest Gump
+   -Ferris Bueller's Day Off
+   -Seven (a.k.a. Se7en)
+   -Silence of the Lambs
+   -The Usual Suspects
 
 **The success factors were also achieved**:
 1. Model Performance: Achieve a high precision@K > 0.6 for accurate recommndation to
@@ -115,10 +124,10 @@ via user feedback or online metrics
 From the metrics output the comparison between the models outcome and the actual user
 preference indicates that users will be satisfied however more tuning of the models
 needs to be done to increase precision
-3. The system should be scalable to handle new users or movies efficiently
-There is provision to include new datasets for prediction
+3. There is provision to include new datasets for prediction
 
 **Limitations and Future Recommendations**
+
 Further hyperparameter tuning could have enhanced the models' performance and improved
 evaluation metrics.
 The models were computationally intensive, resulting in long training times and
