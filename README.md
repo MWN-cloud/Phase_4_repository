@@ -1,4 +1,4 @@
-**MovieLens Recommendation System ReadME**
+**MovieLens Recommendation System**
 
 **1. Problem Statement**
 
@@ -133,6 +133,7 @@ occasional runtime crashes due to resource constraints.
 impacted model effectiveness.
 
 **Final Documents**
+All final documents are found in the main branch;
 1. Group_6_Movie_Recommendation_System.ipynb - Final Jupyter Notebook - Group_6_Movie_Recommendation_System.ipynb
 2. Group_6_Movie_Recommendation_System.pdf - Final pdf file of Jupyter Notebook - Group_6_Movie_Recommendation_System.pdf
 3. MOVIELENS_RECOMMENDATION-SYSTEM.PPT - Non - Technical presentation - MOVIELENS-RECOMMENDATION-SYSTEM.pdf
