@@ -134,8 +134,9 @@ impacted model effectiveness.
 
 **Final Documents**
 All final documents are found in the main branch;
-1. Group_6_Movie_Recommendation_System.ipynb - Final Jupyter Notebook - Group_6_Movie_Recommendation_System.ipynb
-2. Group_6_Movie_Recommendation_System.pdf - Final pdf file of Jupyter Notebook - Group_6_Movie_Recommendation_System.pdf
-3. MOVIELENS_RECOMMENDATION-SYSTEM.PPT - Non - Technical presentation - MOVIELENS-RECOMMENDATION-SYSTEM.pdf
-4. Readme.md - Project Readme - README.md
-5. Readme.pdf -Final pdf version of readme - [🎬 MovieLens Recommendation System README.pdf](https://github.com/user-attachments/files/19862047/MovieLens.Recommendation.System.README.pdf)
+1. Group_6_Movie_Recommendation_System.ipynb - Final Jupyter Notebook - [Group_6_Movie_Recommendation_System.ipynb](https://github.com/MWN-cloud/Phase_4_repository/blob/main/Group_6_Movie_Recommendation_System.ipynb)
+2. Group_6_Movie_Recommendation_System.pdf - Final pdf file of Jupyter Notebook - https://github.com/MWN-cloud/Phase_4_repository/blob/main/Group_6_Movie_Recommendation_System.pdf
+3. Group_6_Movie_Recommendation_System.pdf - Non - Technical presentation pdf file - https://github.com/MWN-cloud/Phase_4_repository/blob/main/Group_6_Movie_Recommendation_System.pptx
+4. Group_6_Movie_Recommendation_System.ppt -Non - Technical presentation powerpoint file -https://github.com/MWN-cloud/Phase_4_repository/blob/main/Group_6_Movie_Recommendation_System.pptx
+5. Readme.md - Project Readme - README.md - https://github.com/MWN-cloud/Phase_4_repository/blob/main/README.md
+6. Readme.pdf -Final pdf version of readme - [🎬 MovieLens Recommendation System README.pdf](https://github.com/user-attachments/files/19862047/MovieLens.Recommendation.System.README.pdf)
