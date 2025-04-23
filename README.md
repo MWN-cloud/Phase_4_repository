@@ -36,9 +36,9 @@ iv. Recommend the top 5 personalized movies for each user.
 The dataset was explored to identify key aspects as below;
 
   ![image](https://github.com/user-attachments/assets/03735e2d-9306-4435-adf8-7cc9db96914d)
-**Key insight: Pulp Fiction was selected for personalized filtering experiments**
+      **Key insight: Pulp Fiction was selected for personalized filtering experiments**
 ![image](https://github.com/user-attachments/assets/ac9fe167-d31c-4851-92c1-eb3a0cb65585)
- **Key insight: User 68 was selected for personalized filtering experiments**
+     **Key insight: User 68 was selected for personalized filtering experiments**
 - Visuals:
 - Histogram of rating distribution
 - Plot: Number of Ratings vs Average Rating.
@@ -50,7 +50,8 @@ The dataset was explored to identify key aspects as below;
 - Normalized numeric features with `MinMaxScaler`
 - Utility Matrix employed to be used for collaborative filtering
 ![image](https://github.com/user-attachments/assets/5ac506fd-6bb2-4901-8401-4feb5fd8f5ea)
-**a sparcity of 98.3% was identified on the utility matrix**
+
+    **a sparcity of 98.3% was identified on the utility matrix**
 - Employed `TfidfVectorizer` to be used for content based filtering
 ---
 **7. Modelling**
@@ -132,8 +133,8 @@ occasional runtime crashes due to resource constraints.
 impacted model effectiveness.
 
 **Final Documents**
-1. Group_6_Movie_Recommendation_System.ipynb - Final Jupyter Notebook - https://github.com/MWN-cloud/Phase_4_repository/blob/main/Group_6_Movie_Recommendation_System.ipynb
-2. Group_6_Movie_Recommendation_System.pdf - Final pdf file of Jupyter Notebook -  -https://github.com/MWN-cloud/Phase_4_repository/blob/main/Group_6_Movie_Recommendation_System.pdf
-3. MOVIELENS_RECOMMENDATION-SYSTEM.PPT - Non - Technical presentation - https://github.com/MWN-cloud/Phase_4_repository/blob/branch_commits/MOVIELENS-RECOMMENDATION-SYSTEM.pdf
-4. Readme.md - Project Readme - https://github.com/MWN-cloud/Phase_4_repository/blob/branch_commits/README.md
+1. Group_6_Movie_Recommendation_System.ipynb - Final Jupyter Notebook - Group_6_Movie_Recommendation_System.ipynb
+2. Group_6_Movie_Recommendation_System.pdf - Final pdf file of Jupyter Notebook - Group_6_Movie_Recommendation_System.pdf
+3. MOVIELENS_RECOMMENDATION-SYSTEM.PPT - Non - Technical presentation - MOVIELENS-RECOMMENDATION-SYSTEM.pdf
+4. Readme.md - Project Readme - README.md
 5. Readme.pdf -Final pdf version of readme - [🎬 MovieLens Recommendation System README.pdf](https://github.com/user-attachments/files/19862047/MovieLens.Recommendation.System.README.pdf)
