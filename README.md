@@ -50,8 +50,7 @@ The dataset was explored to identify key aspects as below;
 - Normalized numeric features with `MinMaxScaler`
 - Utility Matrix employed to be used for collaborative filtering
 ![image](https://github.com/user-attachments/assets/5ac506fd-6bb2-4901-8401-4feb5fd8f5ea)
-
-                                                 **a sparcity of 98.3% was identified on the utility matrix**
+                                            **a sparcity of 98.3% was identified on the utility matrix**
   
 - Employed `TfidfVectorizer` to be used for content based filtering
 ---
