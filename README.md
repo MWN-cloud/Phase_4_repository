@@ -36,9 +36,9 @@ iv. Recommend the top 5 personalized movies for each user.
 The dataset was explored to identify key aspects as below;
 
   ![image](https://github.com/user-attachments/assets/03735e2d-9306-4435-adf8-7cc9db96914d)
-      **Key insight: Pulp Fiction was selected for personalized filtering experiments**
+                                                  **Key insight: Pulp Fiction was selected for personalized filtering experiments**
 ![image](https://github.com/user-attachments/assets/ac9fe167-d31c-4851-92c1-eb3a0cb65585)
-     **Key insight: User 68 was selected for personalized filtering experiments**
+                                                  **Key insight: User 68 was selected for personalized filtering experiments**
 - Visuals:
 - Histogram of rating distribution
 - Plot: Number of Ratings vs Average Rating.
@@ -51,7 +51,8 @@ The dataset was explored to identify key aspects as below;
 - Utility Matrix employed to be used for collaborative filtering
 ![image](https://github.com/user-attachments/assets/5ac506fd-6bb2-4901-8401-4feb5fd8f5ea)
 
-    **a sparcity of 98.3% was identified on the utility matrix**
+                                                 **a sparcity of 98.3% was identified on the utility matrix**
+  
 - Employed `TfidfVectorizer` to be used for content based filtering
 ---
 **7. Modelling**
